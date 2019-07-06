@@ -257,7 +257,9 @@ body{
   padding: 10px;
   font-size: 40px;
 }
-
+.download-cv{
+  justify-content: center;
+}
 .footer{
   background: #000;
   height: 50px;
